@@ -1,6 +1,6 @@
 # CWBus
 
-> CWBus is an application for Android devices that serves information of public transportation in Cheorwon, Korea. 
+> CWBus is an application for mobile devices that serves information of public transportation in Cheorwon, Korea. 
 
 ## About
 
